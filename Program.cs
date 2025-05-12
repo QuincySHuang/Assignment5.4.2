@@ -32,6 +32,7 @@ namespace Assignment5._4._2
                 {
                     Console.Write(matrix[i,j] + " ");
                 }
+                Console.WriteLine();
 
             }
             int rightDiagonal = 0;
